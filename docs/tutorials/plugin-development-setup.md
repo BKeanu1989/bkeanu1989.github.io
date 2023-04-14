@@ -30,7 +30,7 @@ Wir werden das Boilerplate von [wppb.me](https://wppb.me) nutzen. Einen kurzer E
 ## Start
 So sieht unsere Dateistruktur zum Anfang unseres Projekts aus.
 
-![Dateistruktur](/images/sample-plugin-structure.png)
+<!-- ![Dateistruktur](/images/sample-plugin-structure.png) -->
 
 Da das Plugin abhängig von Woocommerce ist, müssen wir es bei der Aktivierung prüfen. Das können wir ganz einfach mit folgendem Snippet machen.
 
