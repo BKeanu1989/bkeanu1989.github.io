@@ -5,6 +5,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 export default defineUserConfig({
   lang: 'en-US',
   title: 'Blog - Kevin Fechner',
+  base: "/",
   description: '(Un)interesting things in a life of a developer',
   theme: defaultTheme({
     navbar: [
