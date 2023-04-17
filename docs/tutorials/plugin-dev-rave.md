@@ -1,3 +1,9 @@
+---
+next:
+  text: Template & Database
+  link: /tutorials/plugin-development-setup.md
+---
+
 # Plugin Development Form
 We are developing a form for inclusion via [shortcode](https://codex.wordpress.org/Shortcode_API).
 It will make an api call to save the entered data on a remote server.

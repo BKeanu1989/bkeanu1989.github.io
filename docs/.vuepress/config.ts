@@ -83,6 +83,49 @@ export default defineUserConfig({
               ]
             },
           ],
+          '/projects' : [
+            {
+              text: 'Safeboxen',
+              link: '/projects/Safeboxen.md'
+            },
+            {
+              text: 'Festival Survival',
+              link: '/projects/Festival-survival.md'
+            },
+
+          ],
+          '/tutorials' : [
+           {
+            text: "Progressive Web Apps (PWA)",
+            link: "/tutorials/pwa.md"
+           }, 
+           {
+            text: "Two-Factor Authentication (2FA)",
+            link: "/tutorials/two-factor-auth.md"
+           },
+            {
+              text: 'Wordpress',
+              children: [
+                {
+                  text: 'Plugin Development',
+                  link: '/tutorials/plugin-development-rave.md'
+                }
+              ]
+            },
+            {
+              text: 'CSS',
+              children: [
+                {
+                  text: 'Dark Mode',
+                  link: '/tutorials/dark-mode.md'
+                },
+                {
+                  text: 'Clamp',
+                  link: '/tutorials/clamp.md'
+                }
+              ]
+            }
+          ]
       },
   }),
   plugins: [
