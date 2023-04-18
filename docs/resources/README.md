@@ -19,12 +19,17 @@ I bought the books to support him, but you can read it for free online.
 
 ## Youtube Videos
 - [ ] [The Morpheus (De)](https://www.youtube.com/c/TheMorpheus407)
+- [ ] [Kevin Sowell](https://www.youtube.com/@KevinPowell)
 
-### Kinda offtopic
-- [ ] [Simplicimus](https://www.youtube.com/watch?v=Xa8aMuhC104)
+### Kinda offtopic & alternative
+<!-- - [ ] [Simplicimus](https://www.youtube.com/watch?v=Xa8aMuhC104) -->
 
 
 ### Vue 
 
-### 
+
+### React
+
+
+### Typescript
 

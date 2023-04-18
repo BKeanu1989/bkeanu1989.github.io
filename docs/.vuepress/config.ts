@@ -3,6 +3,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 
 
 export default defineUserConfig({
+  head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
   lang: 'en-US',
   title: 'Blog - Kevin Fechner',
   base: "/",
