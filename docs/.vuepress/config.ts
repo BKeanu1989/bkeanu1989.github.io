@@ -15,26 +15,30 @@ export default defineUserConfig({
           link: '/',
         },
         {
+          text: 'Bucketlist',
+          link: '/bucketlist'
+      },
+        {
             text: 'Resources',
             link: '/resources'
         },
-        {
-            text: 'Interesting',
-            children: [
-                {
-                    text: 'Home',
-                    link: '/interesting'
-                },
-                {
-                    text: 'Snippets',
-                    link: '/snippets'
-                },
-                {
-                    text: 'Bucket',
-                    link: '/interesting/bucket'
-                }
-            ]
-        },
+        // {
+        //     text: 'Interesting',
+        //     children: [
+        //         {
+        //             text: 'Home',
+        //             link: '/interesting'
+        //         },
+        //         {
+        //             text: 'Snippets',
+        //             link: '/snippets'
+        //         },
+        //         {
+        //             text: 'Bucket',
+        //             link: '/interesting/bucket'
+        //         }
+        //     ]
+        // },
         {
             text: 'Projects',
             link: '/projects'
@@ -43,15 +47,15 @@ export default defineUserConfig({
             text: 'Tutorials',
             link: '/tutorials',
         },
-        {
-            text: 'About Me',
-            children: [
-                {
-                    text: 'About me',
-                    link: '/personal'
-                },
-            ]
-        },
+        // {
+        //     text: 'About Me',
+        //     children: [
+        //         {
+        //             text: 'About me',
+        //             link: '/personal'
+        //         },
+        //     ]
+        // },
         {
             text: 'Web Development',
             link: '/webdevelopment'
@@ -109,7 +113,7 @@ export default defineUserConfig({
               children: [
                 {
                   text: 'Plugin Development',
-                  link: '/tutorials/plugin-development-rave.md'
+                  link: '/tutorials/plugin-dev-rave.md'
                 }
               ]
             },
@@ -123,7 +127,11 @@ export default defineUserConfig({
                 {
                   text: 'Clamp',
                   link: '/tutorials/clamp.md'
-                }
+                },
+                {
+                  text: 'Container Queries',
+                  link: '/tutorials/container-queries.md'
+                },
               ]
             }
           ]
