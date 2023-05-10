@@ -87,6 +87,8 @@ fi
 
 Whatever you named your file, you need to make it executable via setting correct permissions
 
+::: danger
 ```bash
 chmod +x /backup/my-backup.sh
 ```
+:::
