@@ -22,23 +22,10 @@ export default defineUserConfig({
             text: 'Resources',
             link: '/resources'
         },
-        // {
-        //     text: 'Interesting',
-        //     children: [
-        //         {
-        //             text: 'Home',
-        //             link: '/interesting'
-        //         },
-        //         {
-        //             text: 'Snippets',
-        //             link: '/snippets'
-        //         },
-        //         {
-        //             text: 'Bucket',
-        //             link: '/interesting/bucket'
-        //         }
-        //     ]
-        // },
+        {
+          text: 'Snippets',
+          link: '/snippets'
+      },
         {
             text: 'Projects',
             link: '/projects'
@@ -47,15 +34,6 @@ export default defineUserConfig({
             text: 'Tutorials',
             link: '/tutorials',
         },
-        // {
-        //     text: 'About Me',
-        //     children: [
-        //         {
-        //             text: 'About me',
-        //             link: '/personal'
-        //         },
-        //     ]
-        // },
         {
             text: 'Web Development',
             link: '/webdevelopment'
@@ -87,6 +65,15 @@ export default defineUserConfig({
                 }
               ]
             },
+            {
+              text: 'MySQL',
+              children: [
+                {
+                    link: '/snippets/db-backups.md',
+                    text: 'Automated DB Backups'
+                }
+              ]
+            },
           ],
           '/projects' : [
             {
@@ -102,7 +89,17 @@ export default defineUserConfig({
           '/tutorials' : [
            {
             text: "Progressive Web Apps (PWA)",
-            link: "/tutorials/pwa.md"
+            link: "/tutorials/pwa.md",
+            children: [
+              {
+                text: 'Web Push',
+                link: '/tutorials/web-push-server.md'
+              },
+              {
+                text: 'Service Worker',
+                link: '/tutorials/service-worker.md'
+              },
+            ]
            }, 
            {
             text: "Two-Factor Authentication (2FA)",
