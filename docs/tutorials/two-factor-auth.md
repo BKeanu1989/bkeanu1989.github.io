@@ -1,1 +1,1 @@
-# Two-Factor-Authenticatioin (2FA)
+# Two-Factor-Authenticatioin (2FA) / TOTP

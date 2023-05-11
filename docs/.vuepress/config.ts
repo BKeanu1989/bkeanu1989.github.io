@@ -74,6 +74,15 @@ export default defineUserConfig({
                 }
               ]
             },
+            {
+              text: 'Utility',
+              children: [
+                {
+                    link: '/snippets/utility.md',
+                    text: 'Utility Functions & Stuff'
+                }
+              ]
+            },
           ],
           '/projects' : [
             {
