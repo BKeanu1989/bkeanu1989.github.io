@@ -62,6 +62,10 @@ export default defineUserConfig({
                 {
                     link: '/snippets/wordpress-import.md',
                     text: 'Import Database in Wordpress'
+                },
+                {
+                  text: 'Wordpress Upload Image Quality',
+                  link: '/snippets/wordpress-image-quality.md'
                 }
               ]
             },
