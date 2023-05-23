@@ -13,3 +13,14 @@ function urlB64ToUint8Array(base64String) {
   return outputArray; 
 };
 ```
+
+# Slugify string
+```js
+const slugify = str =>
+  str
+    .toLowerCase()
+    .trim()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/[\s_-]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+```
