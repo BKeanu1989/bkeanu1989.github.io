@@ -4,7 +4,7 @@
             <div v-for="q in questions" :key="q.id" style="margin: 10px 0">
                 {{ q.text }}
                 <div class="options" v-for="(option,i ) in q.options" :key="i">
-                    <label :for="slugify(option) + q.text[10]">{{ option }}</label>
+                    <label :for="slugify(option) + q.text[10]">{{ i + 1 }}. {{ option }}</label>
                     <input type="radio" :id="slugify(option) + q.text[10]" v-model="q.chosenAnswer" :value="i" />
                 </div>
                 <div class="result" v-if="q.chosenAnswer !== null">

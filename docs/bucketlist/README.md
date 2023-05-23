@@ -8,4 +8,4 @@
 - Animal Farm
 - False Alarm
 
-<MyTest/>
+<FactfulnessQuiz/>

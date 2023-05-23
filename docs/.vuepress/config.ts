@@ -155,7 +155,7 @@ export default defineUserConfig({
     }),
     registerComponentsPlugin({
       components: {
-        MyTest: path.resolve('./components/MyTest.vue')
+        FactfulnessQuiz: path.resolve('./components/FactfulnessQuiz.vue')
       }
     })
   ],
