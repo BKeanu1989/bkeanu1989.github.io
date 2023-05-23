@@ -15,6 +15,8 @@ function urlB64ToUint8Array(base64String) {
 ```
 
 # Slugify string
+:::: code-group
+::: code-group-item Javascript
 ```js
 const slugify = str =>
   str
@@ -24,3 +26,12 @@ const slugify = str =>
     .replace(/[\s_-]+/g, '-')
     .replace(/^-+|-+$/g, '');
 ```
+:::
+::: code-group-item PHP
+```php
+function slugify($str) {
+  return strtolower(trim(preg_replace('/[^A-Za-z0-9-]+/', '-', $str), '-'));
+}
+```
+:::
+::::

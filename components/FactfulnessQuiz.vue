@@ -7,11 +7,11 @@
                     <label :for="slugify(option) + q.text[10]">{{ i + 1 }}. {{ option }}</label>
                     <input type="radio" :id="slugify(option) + q.text[10]" v-model="q.chosenAnswer" :value="i" />
                 </div>
-                <div class="result" v-if="q.chosenAnswer !== null">
-                    <div v-if="q.chosenAnswer == q.correctIndex">
+                <div class="result" v-if="finished && q.chosenAnswer !== null">
+                    <div v-if="q.chosenAnswer == q.correctIndex" style="color: green;">
                         correct
                     </div>
-                    <div v-else>
+                    <div v-else style="color: red;">
                         false
                     </div>
                 </div>

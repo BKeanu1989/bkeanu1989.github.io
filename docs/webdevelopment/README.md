@@ -38,6 +38,7 @@ The biggest points are:
 - via Electron
 - via Tauri
 
-## 'Transition' to mobile development
+## Transition to mobile development
 - via pwa 
 - via Tauri
+- via React Native
