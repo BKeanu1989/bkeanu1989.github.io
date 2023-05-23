@@ -1,6 +1,8 @@
 import { defineUserConfig, defaultTheme } from 'vuepress'
 import { searchPlugin } from '@vuepress/plugin-search'
-
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import utils from '@vuepress/utils'
+const { path } = utils
 
 export default defineUserConfig({
   head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
@@ -151,5 +153,10 @@ export default defineUserConfig({
     searchPlugin({
       // options
     }),
+    registerComponentsPlugin({
+      components: {
+        MyTest: path.resolve('./components/MyTest.vue')
+      }
+    })
   ],
 })
