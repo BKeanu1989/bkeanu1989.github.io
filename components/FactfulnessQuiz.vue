@@ -2,18 +2,12 @@
     <div>
         <form>
             <div v-for="q in questions" :key="q.id" style="margin: 10px 0">
-                {{ q.text }}
+                {{ q.id }}. {{ q.text }}
+
                 <div class="options" v-for="(option,i ) in q.options" :key="i">
-                    <label :for="slugify(option) + q.text[10]">{{ i + 1 }}. {{ option }}</label>
+                    <label v-if="finished" :for="slugify(option) + q.text[10]" :class="{'green': i  == q.correctIndex, 'red': i == q.chosenAnswer}">{{ getIndexNumberAsAlphabet(i) }}. {{ option }}</label>
+                    <label v-else :for="slugify(option) + q.text[10]">{{ getIndexNumberAsAlphabet(i) }}. {{ option }}</label>
                     <input type="radio" :id="slugify(option) + q.text[10]" v-model="q.chosenAnswer" :value="i" />
-                </div>
-                <div class="result" v-if="finished && q.chosenAnswer !== null">
-                    <div v-if="q.chosenAnswer == q.correctIndex" style="color: green;">
-                        correct
-                    </div>
-                    <div v-else style="color: red;">
-                        false
-                    </div>
                 </div>
             </div>
             <div class="endresult" v-if="finished">
@@ -24,6 +18,13 @@
 </template>
 <script setup>
 import { ref, watch, computed } from 'vue'
+const getIndexNumberAsAlphabet = (index) => {
+    const alphabet = [
+        'A', 'B', 'C', 'D', 'E', 'F'
+    ];
+
+    return alphabet[index]
+}
 const slugify = str =>
   str
     .toLowerCase()
@@ -146,3 +147,12 @@ const finished = computed(() => {
 })
 
 </script>
+<style scoped>
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+</style>
