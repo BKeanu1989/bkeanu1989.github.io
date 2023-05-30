@@ -11,7 +11,7 @@
                 </div>
             </div>
             <div class="endresult" v-if="finished">
-                You got {{  result }} out of {{ questions.length }} correct.
+                You got <span class="green">{{  result }}</span> out of {{ questions.length }} correct.
             </div>
         </form>
     </div>
@@ -149,7 +149,7 @@ const finished = computed(() => {
 </script>
 <style scoped>
 .green {
-    color: green;
+    color: green !important;
 }
 
 .red {
