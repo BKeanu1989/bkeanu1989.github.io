@@ -9,6 +9,7 @@
 - :white_check_mark: Animal Farm (George Orwell)
 - :white_check_mark: False Alarm 
 - :white_check_mark: Wie man Freunde gewinnt (Dale Carnegie) 
+- :white_check_mark: Komm ich erzähl dir eine Geschichte (Jorge Bucay)
 - :white_check_mark: 12 Rules for Life (Jordan B. Peterson)
 
 ### Fantasy
@@ -23,7 +24,7 @@
 ## Books to read / finish
 ### Life
 
-- :white_large_square: [Factfulness](/books/factfulness.md) (Hans Rosling)
+- :white_large_square: [Factfulness](/books/factfulness.md) with Quiz (Hans Rosling)
 - :white_large_square: Intellectuals & Society (Thomas Sowell)
 
 ### Fantasy

@@ -21,6 +21,10 @@ export default defineUserConfig({
           link: '/books',
         },
         {
+          text: 'What\'s new',
+          link: '/whatsnew',
+        },
+        {
           text: 'Bucket list',
           link: '/bucketlist'
       },
