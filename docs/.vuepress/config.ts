@@ -22,7 +22,7 @@ export default defineUserConfig({
         },
         {
           text: 'What\'s new',
-          link: '/whatsnew',
+          link: '/whats-new',
         },
         {
           text: 'Bucket list',

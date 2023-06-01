@@ -1,5 +1,5 @@
 # What's new
-
+[[toc]]
 ## Array methods
     - Array.prototype.at
     - Array.prototype.with
@@ -24,3 +24,7 @@ console.log(mushrooms2.amanita); // ["muscaria", "virosa", "pantherina"]
 console.log(mushrooms1.amanita); // ["muscaria"]
 ```
 
+## Web Worker execution in main thread
+meaning we can write code in the main thread but it will execute in a separate web worker
+
+[Web Worker in Main Thread](https://www.builder.io/blog/worker-multi-thread-JSX)

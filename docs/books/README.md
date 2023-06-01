@@ -19,6 +19,7 @@
 ### Development
 - :white_check_mark: You don't know JS (Kyle Simpson) 1-6
 
+
 ### Economics
 
 ## Books to read / finish
