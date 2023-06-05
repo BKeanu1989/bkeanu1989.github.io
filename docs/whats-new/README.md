@@ -1,5 +1,10 @@
 # What's new
 [[toc]]
+
+## Rust is being destroyed from the inside
+I've noticed multiple kinda halfbad things lately about rust. starting with their logo / mascot / crab.
+https://www.youtube.com/watch?v=QEnuzwCWpgQ
+
 ## Array methods
     - Array.prototype.at
     - Array.prototype.with
