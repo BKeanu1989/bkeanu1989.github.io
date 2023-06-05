@@ -89,12 +89,25 @@ export default defineUserConfig({
               ]
             },
             {
+              text: 'Systemadmin',
+              children: [
+                {
+                    link: '/snippets/tar-zip.md',
+                    text: 'Tar / Zip'
+                }
+              ]
+            },
+            {
               text: 'Utility',
               children: [
                 {
                     link: '/snippets/utility.md',
                     text: 'Utility Functions & Stuff'
-                }
+                },
+                {
+                  link: '/snippets/tar-zip.md',
+                  text: 'Tar / Zip'
+              }
               ]
             },
           ],
