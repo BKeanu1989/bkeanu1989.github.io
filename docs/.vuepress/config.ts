@@ -94,7 +94,11 @@ export default defineUserConfig({
                 {
                     link: '/snippets/tar-zip.md',
                     text: 'Tar / Zip'
-                }
+                },
+                {
+                  link: '/snippets/watch.md',
+                  text: 'Watch - Debug Logs'
+              }
               ]
             },
             {
