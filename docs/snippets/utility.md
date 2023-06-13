@@ -582,3 +582,22 @@ function slugify($text)
 ```
 :::
 ::::
+
+# Kill process PHP (anything) in Unix
+:::: code-group
+::: code-group-item PHP
+```bash
+kill $(ps aux | grep '[p]hp' | awk '{print $2}')
+```
+:::
+::: code-group-item Mysql
+```bash
+kill $(ps aux | grep '[m]ysql' | awk '{print $2}')
+```
+:::
+::: code-group-item Nginx
+```bash
+kill $(ps aux | grep '[n]ginx' | awk '{print $2}')
+```
+:::
+::::
