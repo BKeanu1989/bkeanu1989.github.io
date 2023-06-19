@@ -1,9 +1,16 @@
 # What's new
 [[toc]]
 
+
+## Developer experience for Vue 3 with Typescript
+https://blog.vuejs.org/posts/vue-3-3
+or short summary: [Vue 3 Typescript update](./vue3-typescript.md)
+
+
 ## Rust is being destroyed from the inside
 I've noticed multiple kinda halfbad things lately about rust. starting with their logo / mascot / crab.
 https://www.youtube.com/watch?v=QEnuzwCWpgQ
+
 
 ## Array methods
     - Array.prototype.at
