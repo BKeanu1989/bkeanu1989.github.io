@@ -45,6 +45,8 @@ defineSlots<{
 
 ### Better getter support with toRef & toValue
 ```vue
+<script setup lang="ts">
+
 // equivalent to ref(1)
 toRef(1)
 // creates a readonly ref that calls the getter on .value access
@@ -55,4 +57,5 @@ toRef(existingRef)
 toValue(1) //       --> 1
 toValue(ref(1)) //  --> 1
 toValue(() => 1) // --> 1
+</script>
 ```
