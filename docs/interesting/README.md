@@ -1,5 +1,5 @@
 # Interesting Bucket
-
+[[toc]]
 
 
 ## Dark Mode is awesome
@@ -16,3 +16,6 @@ There are at least two huge advantages using dark mode themes
 - Display might not be visible in broad daylight
 - Scans (eg. QR Codes) need higher contrast -> light theme 
  
+
+## Vue Performance /v-memo & v-once
+[V-Memo & V-once](../interesting/vue-optimization.md)
