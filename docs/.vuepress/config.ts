@@ -1,6 +1,10 @@
 import { defineUserConfig, defaultTheme } from 'vuepress'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+// @ts-ignore
+// import SecretDirective from 'vue3-plugin-secret-directive';
+// import SecretDirectiveVuepress from 'vue3-plugin-secret-directive/dist/secret-directive-vuepress.es.js';
+
 import utils from '@vuepress/utils'
 const { path } = utils
 
@@ -59,6 +63,10 @@ export default defineUserConfig({
           text: 'Map Routing',
           link: '/interesting/open-routing.md',
         },
+        {
+          text: 'Image Proxy',
+          link: '/interesting/image-proxy.md'
+        }
       ],
       '/snippets': [
         {
@@ -186,6 +194,6 @@ export default defineUserConfig({
       components: {
         FactfulnessQuiz: path.resolve('./components/FactfulnessQuiz.vue')
       }
-    })
+    }),
   ],
 })
