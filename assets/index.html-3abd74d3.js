@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as o,R as c}from"./framework-52ca566e.js";const n={},s=c("p",null,"https://www.howtogeek.com/823337/how-to-create-synthetic-ai-art-with-midjourney/ https://www.midjourney.com/home/",-1),r=[s];function _(a,i){return t(),o("div",null,r)}const d=e(n,[["render",_],["__file","index.html.vue"]]);export{d as default};

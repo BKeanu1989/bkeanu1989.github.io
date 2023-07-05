@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7a168e60","path":"/fitness/ernaherung.html","title":"Ernährung","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"fitness/ernaherung.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-af1662c2","path":"/interesting/local-ssl.html","title":"vite","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681886600000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":2}]},"filePathRelative":"interesting/local-ssl.md"}');export{e as data};

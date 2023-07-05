@@ -1,0 +1,1 @@
+import{_ as r,p as c,q as t,R as e,t as o}from"./framework-52ca566e.js";const s={},a=e("h1",{id:"service-worker",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#service-worker","aria-hidden":"true"},"#"),o(" Service Worker")],-1),i=[a];function n(_,d){return c(),t("div",null,i)}const l=r(s,[["render",n],["__file","service-worker.html.vue"]]);export{l as default};

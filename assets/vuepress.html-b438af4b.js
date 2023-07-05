@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-76e107bf","path":"/tags/vuepress.html","title":"Vue Press","lang":"en-US","frontmatter":{"title":"Vue Press","taxonomy":"tags","terms":"vuepress"},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"tags/vuepress.md"}');export{e as data};

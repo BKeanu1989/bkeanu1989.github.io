@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6556dfa4","path":"/interesting/eslint-composition-api.html","title":"wtf is happening","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"interesting/eslint-composition-api.md"}');export{e as data};

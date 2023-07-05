@@ -1,0 +1,1 @@
+import{_ as s,p as r,q as c,R as e,t}from"./framework-52ca566e.js";const o={},a=e("h1",{id:"web-design-resources",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#web-design-resources","aria-hidden":"true"},"#"),t(" Web Design Resources")],-1),n=[a];function _(d,i){return r(),c("div",null,n)}const h=s(o,[["render",_],["__file","resources.html.vue"]]);export{h as default};

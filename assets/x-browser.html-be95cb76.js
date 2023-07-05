@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7adb0e16","path":"/interesting/x-browser.html","title":"Safari problems...","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"interesting/x-browser.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-9998f7e6","path":"/snippets/utility.html","title":"Convert a base64 string to Uint8Array","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1686668750000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":5}]},"filePathRelative":"snippets/utility.md"}');export{t as data};

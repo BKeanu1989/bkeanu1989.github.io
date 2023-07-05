@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as n}from"./framework-52ca566e.js";const i={},r=e("h1",{id:"systemadministration",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#systemadministration","aria-hidden":"true"},"#"),n(" Systemadministration")],-1),o=[r];function c(d,_){return a(),s("div",null,o)}const h=t(i,[["render",c],["__file","index.html.vue"]]);export{h as default};

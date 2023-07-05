@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as s}from"./framework-52ca566e.js";const n={},l=e("h1",{id:"installer",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#installer","aria-hidden":"true"},"#"),s(" Installer")],-1),c=[l];function o(_,i){return a(),r("div",null,c)}const h=t(n,[["render",o],["__file","installer.html.vue"]]);export{h as default};

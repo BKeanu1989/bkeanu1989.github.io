@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-54e98aa5","path":"/webdevelopment/frameworks/react.html","title":"React","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"webdevelopment/frameworks/react.md"}');export{e as data};

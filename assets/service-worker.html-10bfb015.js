@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7b3df870","path":"/tutorials/service-worker.html","title":"Service Worker","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683732899000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"tutorials/service-worker.md"}');export{e as data};
