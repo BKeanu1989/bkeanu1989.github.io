@@ -37,6 +37,10 @@ export default defineUserConfig({
         link: '/bucketlist'
       },
       {
+        text: 'Random Thoughts (De)',
+        link: '/random-thoughts'
+      },
+      {
         text: 'Resources',
         link: '/resources'
       },

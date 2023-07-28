@@ -19,3 +19,6 @@ There are at least two huge advantages using dark mode themes
 
 ## Vue Performance /v-memo & v-once
 [V-Memo & V-once](../interesting/vue-optimization.md)
+
+## Image Proxy
+[Example](../interesting/image-proxy.md)

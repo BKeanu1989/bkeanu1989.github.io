@@ -1,6 +1,6 @@
 # Image proxy
 Image proxy help to produce more adequate images for "every" user for example resizing it to the device screen.
-I got to know of it because of Nuxt js. But we can use [ipx](https://github.com/unjs/ipx) with a simple express server.
+I got to know of it because of Nuxt js. But we can use [ipx](https://github.com/unjs/ipx) with, for example, a simple express server.
 
 ## Features
 most important features imo:
@@ -16,7 +16,3 @@ some other features:
 
 A demo repo can be found here:
 [Github Demo Repo](https://github.com/BKeanu1989/image-proxy)
-
-
-
-
