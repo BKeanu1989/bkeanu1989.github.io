@@ -12,6 +12,10 @@ tar cvzf filename.tar.gz *
 # 4: Untar (extract gzipped archive) all files and directories in a tarball compressed with gzip recursively into the current working directory
 tar xvf filename.tar.gz # Note: same options as 2 above
 
+# 4.1 Untar (extract gzipped) into specific directory
+tar xvf filename.tar.gz -C /path/to/dir
+
+
 # 5: tar (create bzip2'ed archive) all files and directories in the current working directory recursively into a tarball compressed with bzip2
 tar cvjf filename.tar.bz2 * # Note: little 'j' in options
 

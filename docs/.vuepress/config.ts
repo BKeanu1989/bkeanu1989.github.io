@@ -101,6 +101,10 @@ export default defineUserConfig({
             {
               link: '/snippets/db-backups.md',
               text: 'Automated DB Backups'
+            },
+            {
+              link: '/snippets/sql-import.md',
+              text: 'SQL Imports'
             }
           ]
         },
