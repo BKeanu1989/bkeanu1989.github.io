@@ -1,6 +1,11 @@
-# SQL Import
+# SQL Import & Export
 
-## .sql file
+## .sql file export
+```bash
+mysqldump -u username -p dbname > dbexport.sql
+```
+
+## .sql file - export
 ```bash
 mysql -u USERNAME -p DBNAME < /path/to/file.sql
 ```

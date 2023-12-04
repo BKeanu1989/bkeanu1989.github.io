@@ -104,7 +104,7 @@ export default defineUserConfig({
             },
             {
               link: '/snippets/sql-import.md',
-              text: 'SQL Imports'
+              text: 'SQL Imports & Exports'
             }
           ]
         },
