@@ -5,7 +5,7 @@
 mysqldump -u username -p dbname > dbexport.sql
 ```
 
-## .sql file - export
+## .sql file - import
 ```bash
 mysql -u USERNAME -p DBNAME < /path/to/file.sql
 ```
