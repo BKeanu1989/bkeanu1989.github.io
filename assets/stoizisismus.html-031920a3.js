@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c8c85986","path":"/random-thoughts/stoizisismus.html","title":"Stoizismus","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1690553888000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"random-thoughts/stoizisismus.md"}');export{t as data};

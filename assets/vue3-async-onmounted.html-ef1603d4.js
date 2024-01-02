@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as n,R as o}from"./framework-52ca566e.js";const s={},c=o("p",null,"https://antfu.me/posts/async-with-composition-api",-1),_=[c];function a(r,i){return t(),n("div",null,_)}const u=e(s,[["render",a],["__file","vue3-async-onmounted.html.vue"]]);export{u as default};

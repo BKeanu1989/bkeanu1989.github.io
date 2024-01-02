@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0b547313","path":"/snippets/docker-debug.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681470174000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":2}]},"filePathRelative":"snippets/docker-debug.md"}');export{e as data};

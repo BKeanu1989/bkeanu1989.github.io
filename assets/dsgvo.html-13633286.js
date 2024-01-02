@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3482c5d7","path":"/webdevelopment/dsgvo.html","title":"DSGVO","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"webdevelopment/dsgvo.md"}');export{e as data};

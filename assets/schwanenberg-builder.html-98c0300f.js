@@ -1,0 +1,1 @@
+import{_ as s,p as t,q as n,R as e}from"./framework-52ca566e.js";const a={},c=e("p",null,"drag and drop broadcast canvas",-1),o=e("p",null,"vue use core useDraggable",-1),r=e("p",null,"aspect ratio",-1),_=[c,o,r];function l(d,u){return t(),n("div",null,_)}const p=s(a,[["render",l],["__file","schwanenberg-builder.html.vue"]]);export{p as default};

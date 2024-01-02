@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-39ebf12c","path":"/webdesign/resources.html","title":"Web Design Resources","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"webdesign/resources.md"}');export{e as data};

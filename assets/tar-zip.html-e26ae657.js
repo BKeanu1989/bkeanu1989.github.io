@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-48fa14a0","path":"/snippets/tar-zip.html","title":"tar linux zip gzip","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701315073000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":2}]},"filePathRelative":"snippets/tar-zip.md"}');export{e as data};

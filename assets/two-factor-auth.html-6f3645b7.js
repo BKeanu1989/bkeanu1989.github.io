@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2c7168c7","path":"/tutorials/two-factor-auth.html","title":"Two-Factor-Authenticatioin (2FA) / TOTP","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1690553888000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":5}]},"filePathRelative":"tutorials/two-factor-auth.md"}');export{t as data};

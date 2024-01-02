@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-31069c72","path":"/tutorials/container-queries.html","title":"Container Queries","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681886600000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":2}]},"filePathRelative":"tutorials/container-queries.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-290ff5f1","path":"/personal/draw-more.html","title":"drawing more","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"personal/draw-more.md"}');export{e as data};

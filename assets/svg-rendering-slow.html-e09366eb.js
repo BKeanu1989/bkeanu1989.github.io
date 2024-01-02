@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-28706a5e","path":"/interesting/svg-rendering-slow.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"interesting/svg-rendering-slow.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as e,p as s,q as t,R as c}from"./framework-52ca566e.js";const o={},r=c("p",null,"VuePress is a static site generator, which is also used in this site.",-1),n=[r];function _(a,i){return s(),t("div",null,n)}const u=e(o,[["render",_],["__file","vuepress.html.vue"]]);export{u as default};

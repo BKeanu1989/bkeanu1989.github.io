@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1ecaf241","path":"/interesting/eu-chatcontrol.html","title":"EU Chatkontrolle","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701315073000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"interesting/eu-chatcontrol.md"}');export{e as data};

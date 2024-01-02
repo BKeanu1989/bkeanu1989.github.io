@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-020fcb36","path":"/frontend/vanilla-javascript.html","title":"Vanilla Javascript","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"frontend/vanilla-javascript.md"}');export{a as data};

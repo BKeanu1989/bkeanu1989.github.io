@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9c12f338","path":"/random-thoughts/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1690554519000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"random-thoughts/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as a,R as e,t as r}from"./framework-52ca566e.js";const c={},o=e("h1",{id:"ui-toasts",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ui-toasts","aria-hidden":"true"},"#"),r(" UI Toasts?")],-1),n=[o];function _(i,d){return s(),a("div",null,n)}const l=t(c,[["render",_],["__file","catching-errors.html.vue"]]);export{l as default};

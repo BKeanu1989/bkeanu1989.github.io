@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ff5161f6","path":"/electron/installer.html","title":"Installer","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"electron/installer.md"}');export{e as data};
