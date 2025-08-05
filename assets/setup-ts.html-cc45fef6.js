@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-17627b7e","path":"/webdevelopment/tutorials/setup-ts.html","title":"How to setup","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"webdevelopment/tutorials/setup-ts.md"}');export{e as data};

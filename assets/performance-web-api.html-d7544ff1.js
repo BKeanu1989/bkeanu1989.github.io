@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0c051966","path":"/performance/performance-web-api.html","title":"Performance Web API","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1754383057000,"contributors":[{"name":"Kevin Fechner","email":"bkevinfechner1989@gmail.com","commits":1}]},"filePathRelative":"performance/performance-web-api.md"}');export{e as data};

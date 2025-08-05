@@ -1,0 +1,1 @@
+import{_ as t,p as r,q as a,R as e,t as c}from"./framework-52ca566e.js";const s={},o=e("h1",{id:"ruby",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ruby","aria-hidden":"true"},"#"),c(" Ruby")],-1),n=[o];function _(d,i){return r(),a("div",null,n)}const h=t(s,[["render",_],["__file","ruby.html.vue"]]);export{h as default};

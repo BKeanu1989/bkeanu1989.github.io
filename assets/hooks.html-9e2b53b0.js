@@ -1,0 +1,1 @@
+import{_ as o,p as s,q as t,R as e,t as a}from"./framework-52ca566e.js";const c={},r=e("h1",{id:"hooks",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hooks","aria-hidden":"true"},"#"),a(" Hooks")],-1),n=[r];function _(h,d){return s(),t("div",null,n)}const l=o(c,[["render",_],["__file","hooks.html.vue"]]);export{l as default};

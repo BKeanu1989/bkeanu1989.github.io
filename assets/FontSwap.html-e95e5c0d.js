@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0e7721ec","path":"/webdevelopment/news/FontSwap.html","title":"Font Display Swap","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"webdevelopment/news/FontSwap.md"}');export{e as data};

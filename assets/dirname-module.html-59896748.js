@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-77b2eaa1","path":"/bugs/dirname-module.html","title":"__dirname is not defined in ES module scope","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1688496956000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"bugs/dirname-module.md"}');export{e as data};

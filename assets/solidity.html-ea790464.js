@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-41670438","path":"/smartcontracts/solidity.html","title":"Solidity","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"smartcontracts/solidity.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f7316edc","path":"/tutorials/pwa.html","title":"Progressive Web App (PWA)","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"tutorials/pwa.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3af153f0","path":"/interesting/abort-controller.html","title":"Abort Controller","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"interesting/abort-controller.md"}');export{e as data};

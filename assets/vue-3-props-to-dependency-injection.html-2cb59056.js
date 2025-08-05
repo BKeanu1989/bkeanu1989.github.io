@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-96f52900","path":"/interesting/vue-3-props-to-dependency-injection.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"interesting/vue-3-props-to-dependency-injection.md"}');export{e as data};

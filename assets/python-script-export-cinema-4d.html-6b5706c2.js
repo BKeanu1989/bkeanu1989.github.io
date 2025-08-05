@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as c}from"./framework-52ca566e.js";const r={};function n(o,_){return t(),c("div")}const a=e(r,[["render",n],["__file","python-script-export-cinema-4d.html.vue"]]);export{a as default};

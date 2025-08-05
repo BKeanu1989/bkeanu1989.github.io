@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8f4bfa68","path":"/interesting/vue%20use%20autoswitch%20view%20for%20table.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"interesting/vue use autoswitch view for table.md"}');export{e as data};

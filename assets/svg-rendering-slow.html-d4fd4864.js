@@ -1,0 +1,6 @@
+import{_ as n,p as s,q as a,a1 as e}from"./framework-52ca566e.js";const t={},p=e(`<p>https://codepen.io/tigt/post/improving-svg-rendering-performance</p><div class="language-css line-numbers-mode" data-ext="css"><pre class="language-css"><code><span class="token atrule"><span class="token rule">@media</span> <span class="token punctuation">(</span><span class="token property">min-resolution</span><span class="token punctuation">:</span> 2ddpx<span class="token punctuation">)</span></span> <span class="token punctuation">{</span>
+  <span class="token selector">svg</span> <span class="token punctuation">{</span>
+    <span class="token property">shape-rendering</span><span class="token punctuation">:</span> optimizeSpeed<span class="token punctuation">;</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,2),c=[p];function o(i,l){return s(),a("div",null,c)}const d=n(t,[["render",o],["__file","svg-rendering-slow.html.vue"]]);export{d as default};

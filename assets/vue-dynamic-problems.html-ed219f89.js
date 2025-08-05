@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b11de140","path":"/interesting/vue-dynamic-problems.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"interesting/vue-dynamic-problems.md"}');export{e as data};

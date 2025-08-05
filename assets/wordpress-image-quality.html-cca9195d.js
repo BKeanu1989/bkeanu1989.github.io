@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-45988e60","path":"/snippets/wordpress-image-quality.html","title":"Wordpress Image Quality (Default)","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683830159000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"snippets/wordpress-image-quality.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as s,R as e}from"./framework-52ca566e.js";const n={},c=e("p",null,"vue component library how to add icons via string or ... file?",-1),_=e("p",null,"-->",-1),l=e("p",null,"via template slot",-1),a=[c,_,l];function i(r,d){return o(),s("div",null,a)}const p=t(n,[["render",i],["__file","ideas-bucket.html.vue"]]);export{p as default};

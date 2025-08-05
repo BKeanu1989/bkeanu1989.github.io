@@ -1,0 +1,5 @@
+import{_ as e,p as s,q as n,a1 as a}from"./framework-52ca566e.js";const t={},i=a(`<h1 id="how-to-setup" tabindex="-1"><a class="header-anchor" href="#how-to-setup" aria-hidden="true">#</a> How to setup</h1><p>place following file in your root index.d.ts</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>interface example {
+    whatever: any
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>and in your package.json</p><div class="language-json line-numbers-mode" data-ext="json"><pre class="language-json"><code><span class="token property">&quot;typings&quot;</span><span class="token operator">:</span> <span class="token string">&quot;index.d.ts&quot;</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>`,5),o=[i];function d(r,l){return s(),n("div",null,o)}const p=e(t,[["render",d],["__file","setup-ts.html.vue"]]);export{p as default};

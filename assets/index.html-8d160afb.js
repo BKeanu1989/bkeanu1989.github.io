@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as a,R as e,t as o}from"./framework-52ca566e.js";const n={},r=e("h1",{id:"personal-thoughts",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#personal-thoughts","aria-hidden":"true"},"#"),o(" Personal Thoughts")],-1),c=[r];function h(_,d){return s(),a("div",null,c)}const l=t(n,[["render",h],["__file","index.html.vue"]]);export{l as default};

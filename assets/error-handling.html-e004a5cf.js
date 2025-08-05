@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-411afc42","path":"/interesting/error-handling.html","title":"Error Handling in node","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"interesting/error-handling.md"}');export{e as data};

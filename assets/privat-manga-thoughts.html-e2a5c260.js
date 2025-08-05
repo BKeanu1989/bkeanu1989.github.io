@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ae485e12","path":"/personalthoughts/privat-manga-thoughts.html","title":"Manga","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"personalthoughts/privat-manga-thoughts.md"}');export{t as data};

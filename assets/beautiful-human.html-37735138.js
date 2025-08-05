@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-47f0a9b8","path":"/interesting/beautiful-human.html","title":"meine divisen","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"interesting/beautiful-human.md"}');export{e as data};

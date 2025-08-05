@@ -1,0 +1,1 @@
+import{_ as o,p as t,q as s,R as e,t as a}from"./framework-52ca566e.js";const n={},c=e("h1",{id:"web-design-tools",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#web-design-tools","aria-hidden":"true"},"#"),a(" Web Design Tools")],-1),r=[c];function _(d,l){return t(),s("div",null,r)}const h=o(n,[["render",_],["__file","tools.html.vue"]]);export{h as default};

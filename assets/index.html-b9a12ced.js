@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as r,R as e,t as a}from"./framework-52ca566e.js";const o={},c=e("h1",{id:"frontend",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#frontend","aria-hidden":"true"},"#"),a(" Frontend")],-1),d=[c];function s(_,i){return n(),r("div",null,d)}const h=t(o,[["render",s],["__file","index.html.vue"]]);export{h as default};

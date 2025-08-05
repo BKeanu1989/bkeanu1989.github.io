@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-25a8633a","path":"/webdevelopment/cms/wordpress/plugins/","title":"Plugins","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"webdevelopment/cms/wordpress/plugins/README.md"}');export{e as data};

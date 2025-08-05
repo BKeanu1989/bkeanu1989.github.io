@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8b5ecdec","path":"/interesting/pro-meat-argument.html","title":"Why eat meat?","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"interesting/pro-meat-argument.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-07b449c0","path":"/frontend/frameworks.html","title":"Frameworks / Libraries","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"frontend/frameworks.md"}');export{e as data};

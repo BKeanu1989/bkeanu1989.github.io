@@ -1,0 +1,1 @@
+import{_ as a,p as r,q as t,R as e,t as n}from"./framework-52ca566e.js";const c={},s=e("h1",{id:"angular",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#angular","aria-hidden":"true"},"#"),n(" Angular")],-1),o=[s];function _(l,d){return r(),t("div",null,o)}const u=a(c,[["render",_],["__file","angular.html.vue"]]);export{u as default};

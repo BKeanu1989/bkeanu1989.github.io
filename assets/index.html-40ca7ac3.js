@@ -1,0 +1,1 @@
+import{_ as t,p as c,q as n,R as e,t as r}from"./framework-52ca566e.js";const s={},a=e("h1",{id:"bucher",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bucher","aria-hidden":"true"},"#"),r(" Bücher")],-1),o=e("p",null,"Kyle Simpson",-1),_=[a,o];function d(i,h){return c(),n("div",null,_)}const u=t(s,[["render",d],["__file","index.html.vue"]]);export{u as default};

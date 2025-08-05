@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as s,R as e,t as o}from"./framework-52ca566e.js";const n={},c=e("h1",{id:"font-display-swap",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#font-display-swap","aria-hidden":"true"},"#"),o(" Font Display Swap")],-1),r=[c];function _(d,i){return t(),s("div",null,r)}const p=a(n,[["render",_],["__file","FontSwap.html.vue"]]);export{p as default};

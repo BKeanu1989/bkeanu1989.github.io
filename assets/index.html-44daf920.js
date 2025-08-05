@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e355b60c","path":"/categories/","title":"Categories","lang":"en-US","frontmatter":{"title":"Categories"},"headers":[],"git":{"updatedTime":1681467171000,"contributors":[{"name":"Kevin Fechner","email":"kevin@mokka-merch.com","commits":1}]},"filePathRelative":"categories/README.md"}');export{e as data};
