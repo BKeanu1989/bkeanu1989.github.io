@@ -1,5 +1,39 @@
 # Snippets
 
+## ssh & sftp
+```bash
+// create ssh key
+ssh-keygen -t rsa -f ~/.ssh/nameOfPrivateKey
+
+
+
+
+```
+
+
+## scp (kinda deprecated)
+```bash
+
+scp example.txt user@192.168.1.100:/path/to/remote/directory
+
+// if connection closed, try -O
+scp -O example.txt user@192.168.1.100:/path/to/remote/directory
+
+
+scp -i /path/to/private/key example.txt user@192.168.1.100:/path/to/remote/directory
+
+// recursivly copy contents of folders
+scp -r /local-directory user@remoteIP:/remote-directory
+
+// -P for not using standard port
+scp -P 2222 /local-path/file username@remoteIP:/remote-path
+
+// from remote to local
+scp username@remoteHost:/remote/dir/file.txt /local/dir/
+
+
+```
+
 ## Docker
 
 ```bash

@@ -1,10 +1,15 @@
 # Bucket list
 
 ## Development
-- learn rust
+- ~~learn rust~~ 
+- ongoing: learn & use go  
 - learn / use React Native
+
+
+## Privat
 - learn russian
 - learn spanish
+
 
 ## Good deeds
 ### Open source low tech
